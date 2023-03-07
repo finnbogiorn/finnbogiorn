@@ -110,7 +110,7 @@ p {
 	margin-bottom: 10px;
 }
 
-.wrap {
+.faqbody {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
